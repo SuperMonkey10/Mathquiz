@@ -1,0 +1,9 @@
+.login_div1,.login_div2{
+    float: none;
+    background-color:orchid;
+    border-radius: 15px;
+    padding: 10px;
+}
+body{
+    background-color:mediumpurple ;
+}
