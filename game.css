@@ -1,0 +1,37 @@
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid rgb(255, 174, 255);
+    padding: 10px;
+    float: none;
+    text-align: left;
+    height: 120px;
+}
+body{
+    background-color:hotpink ;
+}
+#check{
+    background-color:aqua;
+    border-radius: 15%;
+    padding: 5px;
+    border-color: white;
+}
+#questionturn{
+    color: rgb(101, 0, 202);
+}
+#answerturn{
+    color: rgb(101, 0, 202);
+}
+#answer{
+    width: 150px;
+}
+#input_heading1{
+font-size: 15px;
+font-weight: bold;
+}
+#input_heading2{
+font-size: 15px;
+font-weight: bold;
+}
+
+
